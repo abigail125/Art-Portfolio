@@ -56,3 +56,12 @@ main{
 .navbar-toggler-icon{
     color: blue;
 }
+
+.formBox {
+    /* padding-bottom: 20%; */
+    position: relative;
+    display: block;
+    width: 100%;
+    height: calc(100vh - 65px - 70px);
+
+}
